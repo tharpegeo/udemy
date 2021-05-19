@@ -230,6 +230,10 @@ p {
     color: #ffffff;
 }
 
+.blue:hover {
+    color: #1e71ff;
+}
+
 .blue-ghost {
     color: #1e71ff;
     border-color: #1e71ff;
